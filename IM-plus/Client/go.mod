@@ -1,0 +1,3 @@
+module IM-Client
+
+go 1.22.1
